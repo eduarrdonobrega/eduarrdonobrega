@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Eduardo Nóbrega
 
 - 👩🏻‍💻 Desenvolvedor front-end
-- 👩🏻‍🎓 Curso Análise e Desenvolvimento de Sistemas no IFPE
+- 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPE
 
 <div align="center">
   <a href="https://www.linkedin.com/in/eduardo-nunes-nobrega/">
