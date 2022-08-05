@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Eduardo Nóbrega
 
-- 👩🏻‍💻 Desenvolvedor Full-Stack
+- 👩🏻‍💻 Desenvolvedor Front-End
 - 👩🏻‍🎓 Cursando Análise e Desenvolvimento de Sistemas no IFPE
 
 <div align="center">
