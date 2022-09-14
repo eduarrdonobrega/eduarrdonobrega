@@ -1,4 +1,4 @@
-## Hi there, I'm Eduardo Nóbrega
+## Hi! I'm Eduardo Nóbrega 👋🏼
 
 - 👩🏻‍💻 Front end developer
 - 🚀 Studying web development at Rocketseat
