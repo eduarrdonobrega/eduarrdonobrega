@@ -13,8 +13,11 @@
 ### Current stack:
   
   - :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  ######
   - :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  ######
   - 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  ######
   - :package: Version code control: <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"> <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
 
 
