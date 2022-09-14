@@ -12,17 +12,17 @@
 
 ### Current stack:
   
-  - :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js">
+  - :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
-  - :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react">
+  - :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js">
   ######
-  - 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs">
+  - 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js">
   ######
-  - :package: Version code control: <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git"> <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github">
+  - :package: Version code control: <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git" Title="Git"> <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github" Title="GitHub">
 
 
   ##
   
 <div> 
-  <a href="https://www.linkedin.com/in/eduardo-nunes-nobrega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-nunes-nobrega" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" Title="Meu Linkedin"></a> 
 </div>
