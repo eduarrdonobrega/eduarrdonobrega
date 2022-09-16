@@ -1,4 +1,4 @@
-## Hi! I'm Eduardo Nóbrega 👋🏼
+<h1 align="center"> 👋 Hi, I'm Eduardo Nóbrega</h1>
 
 - 👩🏻‍💻 Front end developer
 - 🚀 Studying web development at Rocketseat
