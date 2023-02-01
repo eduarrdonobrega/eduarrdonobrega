@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Eduardo Nóbrega</h1>
 
-<img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/87456011/214689477-57dfc8d7-c470-4735-b9ff-5526802ce5f1.png" width="300px" min-width="300px" max-width="300px" align="right" alt="pc">
 
 <p align="left"> 
 Sou um Desenvolvedor Front-End e tenho muita curiosidade na área de Tecnologia, estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
