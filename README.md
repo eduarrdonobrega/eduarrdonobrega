@@ -8,9 +8,9 @@ Sou um Desenvolvedor Front-End e tenho muita curiosidade na área de Tecnologia,
 
 - :zap: Main language: <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
   ######
-- :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js">
+- :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js"> <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components">
   ######
-- 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js">
+- 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
   ######
  - :package: Version code control: <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git" Title="Git"> <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github" Title="GitHub">
   
