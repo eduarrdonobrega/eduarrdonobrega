@@ -12,7 +12,7 @@ Sou um Desenvolvedor Front-End e tenho muita curiosidade na área de Tecnologia,
   ######
 - 📡 Backend: <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
   ######
- - :package: Version code control: <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git" Title="Git"> <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github" Title="GitHub">
+
   
 
 <p align="left" >
