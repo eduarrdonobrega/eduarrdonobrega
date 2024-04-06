@@ -6,11 +6,28 @@
  Estou sempre em busca de aprimorar meus conhecimentos e ter muitas experiências. Sou organizado, persistente e sempre disposto a ajudar e a aprender algo novo. 
 </p>
 
-- :bulb: Frontend: <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5"> <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3"> <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript"> <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts" Title="TypeScript"> <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js"> <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components">
+- :bulb: Frontend:
+   <img align="center" alt="Eduardo-HTML" height="30" width="40" src="https://skillicons.dev/icons?i=html" Title="HTML 5">
+   <img align="center" alt="Eduardo-CSS" height="30" width="40" src="https://skillicons.dev/icons?i=css" Title="CSS 3">
+   <img align="center" alt="Eduardo-Js" height="30" width="40" src="https://skillicons.dev/icons?i=js" Title="JavaScript">
+   <img align="center" alt="Eduardo-Ts" height="30" width="40" src="https://skillicons.dev/icons?i=ts" Title="TypeScript">
+   <img align="center" alt="Eduardo-react" height="30" width="40" src="https://skillicons.dev/icons?i=react" Title="React.js">
+   <img align="center" alt="Eduardo-Styled Components" height="30" width="40" src="https://skillicons.dev/icons?i=styledcomponents" Title="Styled Components">
   ######
-- 📡 Backend: <img align="center" alt="Eduardo-Py" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="Python"> <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js"> <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express"> <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
+- 📡 Backend:
+   <img align="center" alt="Eduardo-Py" height="30" width="40" src="https://skillicons.dev/icons?i=py" Title="Python">
+   <img align="center" alt="Eduardo-Node" height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" Title="Node.js">
+   <img align="center" alt="Eduardo-express" height="30" width="40" src="https://skillicons.dev/icons?i=express" Title="express">
+   <img align="center" alt="Eduardo-sqlite" height="30" width="40" src="https://skillicons.dev/icons?i=sqlite" Title="sqlite">
   ######
-- :zap: Frameworks: <img align="center" alt="Eduardo-django" height="30" width="40" src="https://skillicons.dev/icons?i=django" Title="django"> <img align="center" alt="Eduardo-bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap" Title="Bootstrap">
+- :zap: Frameworks:
+   <img align="center" alt="Eduardo-flask" height="30" width="40" src="https://skillicons.dev/icons?i=flask" Title="Flask">
+   <img align="center" alt="Eduardo-django" height="30" width="40" src="https://skillicons.dev/icons?i=django" Title="django">
+   <img align="center" alt="Eduardo-bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap" Title="Bootstrap">
+    ######
+- :ocean: Outros:
+   <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git" Title="Git">
+   <img align="center" alt="Eduardo-github" height="30" width="40" src="https://skillicons.dev/icons?i=github" Title="GitHub">
   ######
   
   
