@@ -22,8 +22,8 @@
   ######
 - :zap: Frameworks:
    <img align="center" alt="Eduardo-flask" height="30" width="40" src="https://skillicons.dev/icons?i=flask" Title="Flask">
-   <img align="center" alt="Eduardo-django" height="30" width="40" src="https://skillicons.dev/icons?i=django" Title="django">
-   <img align="center" alt="Eduardo-bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap" Title="Bootstrap">
+   <!-- <img align="center" alt="Eduardo-bootstrap" height="30" width="40" src="https://skillicons.dev/icons?i=bootstrap" Title="Bootstrap"> -->
+   <!-- <img align="center" alt="Eduardo-django" height="30" width="40" src="https://skillicons.dev/icons?i=django" Title="django"> -->
     ######
 - :ocean: Outros:
    <img align="center" alt="Eduardo-git" height="30" width="40" src="https://skillicons.dev/icons?i=git" Title="Git">
